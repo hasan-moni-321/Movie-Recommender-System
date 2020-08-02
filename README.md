@@ -12,6 +12,12 @@ I solved Kaggle movie-recommender-dataset. Dataset will be found here https://ww
 
 ### What I did:-
 
-1. 
-
+1. In Colaborative Recommendation I used SVD(Singular Value Decomposition) and predict next recommended movie.
+2. In Content Based Recommender I did in two way 
+    i) Recommender based on movie description.
+          In movie description I used tagline and overview columns.
+    ii) Recommender based on metadata.
+          In metadata I used cast, crew, keywords and genres columns
+    
+3. in Hybrid Recommendation I used both Colaborative and Content Based Recommendation. 
 
